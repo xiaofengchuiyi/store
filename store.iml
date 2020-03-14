@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/Java视频/21.阶段项目(必看)-电子商务企业实战项目(共61集)/01.项目环境搭建-用户注册-邮件发送/resource/资料/02.jar包/01.完整/mchange-commons-java-0.2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/Java视频/21.阶段项目(必看)-电子商务企业实战项目(共61集)/01.项目环境搭建-用户注册-邮件发送/resource/资料/02.jar包/01.完整/commons-beanutils-1.8.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/Java视频/21.阶段项目(必看)-电子商务企业实战项目(共61集)/01.项目环境搭建-用户注册-邮件发送/resource/资料/02.jar包/01.完整/commons-dbutils-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/Java视频/21.阶段项目(必看)-电子商务企业实战项目(共61集)/01.项目环境搭建-用户注册-邮件发送/resource/资料/02.jar包/01.完整/commons-fileupload-1.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/Java视频/21.阶段项目(必看)-电子商务企业实战项目(共61集)/01.项目环境搭建-用户注册-邮件发送/resource/资料/02.jar包/01.完整/commons-io-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/Java视频/21.阶段项目(必看)-电子商务企业实战项目(共61集)/01.项目环境搭建-用户注册-邮件发送/resource/资料/02.jar包/01.完整/commons-logging-1.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/Java视频/21.阶段项目(必看)-电子商务企业实战项目(共61集)/01.项目环境搭建-用户注册-邮件发送/resource/资料/02.jar包/01.完整/jstl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/Java视频/21.阶段项目(必看)-电子商务企业实战项目(共61集)/01.项目环境搭建-用户注册-邮件发送/resource/资料/02.jar包/01.完整/mail.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/Java视频/21.阶段项目(必看)-电子商务企业实战项目(共61集)/01.项目环境搭建-用户注册-邮件发送/resource/资料/02.jar包/01.完整/c3p0-0.9.2-pre5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/Java视频/21.阶段项目(必看)-电子商务企业实战项目(共61集)/01.项目环境搭建-用户注册-邮件发送/resource/资料/02.jar包/01.完整/mysql-connector-java-5.1.39-bin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/Java视频/21.阶段项目(必看)-电子商务企业实战项目(共61集)/01.项目环境搭建-用户注册-邮件发送/resource/资料/02.jar包/01.完整/standard.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/Java视频/21.阶段项目(必看)-电子商务企业实战项目(共61集)/02.项目用户登录-首页分类/resource/json工具/json jar/ezmorph-1.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/Java视频/21.阶段项目(必看)-电子商务企业实战项目(共61集)/02.项目用户登录-首页分类/resource/json工具/json jar/commons-lang-2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/Java视频/21.阶段项目(必看)-电子商务企业实战项目(共61集)/02.项目用户登录-首页分类/resource/json工具/json jar/commons-collections-3.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Tomcat 7.0.52" level="application_server_libraries" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/apache-tomcat-7.0.52/bin/tomcat-juli.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../fastjson-1.2.62.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/Java视频/21.阶段项目(必看)-电子商务企业实战项目(共61集)/02.项目用户登录-首页分类/resource/jedis工具/jedis/jedis-2.7.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/Java视频/21.阶段项目(必看)-电子商务企业实战项目(共61集)/02.项目用户登录-首页分类/resource/jedis工具/jedis/commons-pool2-2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Jar/alipay-sdk-java20170324180803.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
